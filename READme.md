@@ -4,10 +4,10 @@ This repository contains implementation of language from simple to complex progr
 
 ## Installation
 
-	For Ubuntu users,
-	> sudo apt install bf
+For Ubuntu users,
+> sudo apt install bf
 
-	Other than Ubuntu, please check the docs in [this](https://esolangs.org/wiki/Brainfuck_implementations) link.
+Other than Ubuntu, please check the docs in [this](https://esolangs.org/wiki/Brainfuck_implementations) link.
 
 ## List of Programs
 
